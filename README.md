@@ -27,7 +27,7 @@
 
 ## Дашборд
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 *Looker Studio, агрегированные данные по Google Ads и Meta Ads.*
 
