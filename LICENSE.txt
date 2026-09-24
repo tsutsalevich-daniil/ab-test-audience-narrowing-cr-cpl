@@ -1,0 +1,48 @@
+Copyright (c) 2025–2026 The Author. All Rights Reserved.
+
+================================================================================
+PROPRIETARY PORTFOLIO LICENSE — NOT OPEN SOURCE
+================================================================================
+
+This is NOT an MIT, Apache, GPL, BSD, or Creative Commons license.
+No right to use, copy, modify, or redistribute is granted to the public.
+
+1. OWNERSHIP
+   All contents of this repository (the "Materials") — including text, code,
+   notebooks, SQL, documentation, figures, screenshots, metrics, and analyses —
+   are the exclusive property of the author, subject to any overriding rights
+   of a former employer or client under NDA / employment / contractor agreements.
+
+2. PERMITTED
+   - Viewing the Materials on GitHub (or similar) for the sole purpose of
+     evaluating the author as a job / freelance candidate.
+   - Sharing a link to this repository.
+
+3. NOT PERMITTED (without prior written permission from the author)
+   - Copying, forking for republication, mirroring, or bulk-downloading;
+   - Reusing Materials in another portfolio, blog, course, or commercial work
+     as if they were your own;
+   - Removing or altering this license or any confidentiality notices;
+   - Training ML / AI models on the Materials;
+   - Scraping or redistributing datasets, screenshots, or derived metrics;
+   - Reverse-engineering the identity of any client, employer, or individuals
+     from anonymized / redacted content.
+
+4. PORTFOLIO / RECRUITING CONTEXT
+   Public visibility of this repository is a limited courtesy for recruitment
+   and professional evaluation only. Visibility ≠ open-source license.
+
+5. THIRD-PARTY / EMPLOYER DATA
+   Some Materials may be anonymized or redacted excerpts from professional
+   work. They remain confidential. Employer/client contractual rights, if any,
+   supersede this notice. The author does not authorize third parties to
+   exploit such content.
+
+6. NO WARRANTY
+   THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED.
+
+7. PERMISSION REQUESTS
+   Contact the author via the email or links on their GitHub profile.
+
+All rights not expressly granted above are reserved.
