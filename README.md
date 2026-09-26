@@ -65,10 +65,9 @@
 Полный разбор с графиками — в `analysis.ipynb`.
 
 ## Дашборд
-
+*Looker Studio*
 ![Dashboard](dashboard.png)
 
-*Looker Studio*
 
 ## Структура репозитория
 
