@@ -78,30 +78,12 @@
 
 ```
 .
-├── notebook/
-│   └── analysis.ipynb      # планирование выборки, z-тест, расчёт CPL, графики
-├── data/
-│   └── ab_test_data.csv    # анонимизированные данные (id, group, converted)
-├── images/
-│   ├── dashboard.png       # скриншот дашборда
-│   ├── cr_comparison.png   # график сравнения CR
-│   └── cpl_comparison.png  # график сравнения CPL
+├── analysis.ipynb      # планирование выборки, z-тест, расчёт CPL, графики
+├── ab_test_data.csv    # анонимизированные данные (id, group, converted)
+├── dashboard.png       # скриншот дашборда
 ├── README.md
 └── requirements.txt
 ```
-
-## Как запустить
-
-```bash
-git clone <ссылка-на-репозиторий>
-cd <папка-репозитория>
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Откройте `notebook/analysis.ipynb` и выполните ячейки по порядку
-(Kernel → Restart & Run All).
 
 ## Стек
 
